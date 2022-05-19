@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+  text-align: center  ;
+}
+
+.perguntas {
+    margin: 150px 0px;
+    
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+
+#nomes_integrantes {
+    text-shadow: 10px;
+    text-transform: uppercase;
+}
+
+ul {
+    display: inline;
+    text-transform: uppercase;
+
+}
+
+ul li {
+    display: inline;
+    ;
+}
+
+#formulario {
+    text-transform: uppercase;
+}
+
+footer {
+    text-align: center;
+}
+
