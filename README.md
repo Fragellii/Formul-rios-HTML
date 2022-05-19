@@ -25,6 +25,7 @@ HTML Form Elements
 HTML Input Types
 HTML Input Attributes
 HTML Input Form Attributes
+
 2) Responda as perguntas abaixo:
 Na tag <input> com atributo type="text", para que serve o atributo "placeholder"?
 Na tag <input> com atributo type="radio" ou type="radio", para que serve o atributo "checked"?
@@ -37,4 +38,5 @@ Na tag <form> para que serve o atributo "action"?
 Na tag <form> para que serve o atributo "method"?
 Para que o valor digitado de uma senha não apareça na barra de endereços do navegador, qual deve ser o valor do atributo "method" na tag <form>?
 Qual valor deve ser informado no atributo "method" na tag <form> em um formulário que será usado para fazer upload de arquivos?
+
 3) Escreva o código HTML para produzir um formulário
